@@ -12,7 +12,7 @@ By adapting this novel method to the Sri Lankan urban context, the study contrib
 The workflow consists of two main phases:
 
 ### 1. CRHD Generation
-Gridded vector tiles of Colombo were generated and used to extract road networks using OpenStreetMap data. CRHD images were created by plotting road segments with varying widths and colors depending on road hierarchy. These images capture the spatial configuration of roads within each grid.
+Gridded vector tiles of Colombo were generated and used to extract road networks using OpenStreetMap data. City Road Hierarchy Descriptor(CRHD) images were created by plotting road segments with varying widths and colors depending on road hierarchy. These images capture the spatial configuration of roads within each grid.
 
 **Tools Used:**
 - `osmnx`
